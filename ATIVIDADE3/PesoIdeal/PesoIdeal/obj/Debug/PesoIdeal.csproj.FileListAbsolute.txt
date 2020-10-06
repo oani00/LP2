@@ -1,0 +1,9 @@
+D:\C#\LP2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+D:\C#\LP2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+D:\C#\LP2\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csprojResolveAssemblyReference.cache
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.Cache
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+D:\C#\LP2\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb

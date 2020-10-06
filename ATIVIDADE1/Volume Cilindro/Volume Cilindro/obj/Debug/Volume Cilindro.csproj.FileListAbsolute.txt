@@ -1,0 +1,9 @@
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\bin\Debug\Volume Cilindro.exe.config
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\bin\Debug\Volume Cilindro.exe
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\bin\Debug\Volume Cilindro.pdb
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume Cilindro.csprojResolveAssemblyReference.cache
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume_Cilindro.Form1.resources
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume_Cilindro.Properties.Resources.resources
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume Cilindro.csproj.GenerateResource.Cache
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume Cilindro.exe
+D:\C#\LP2\Volume Cilindro\Volume Cilindro\obj\Debug\Volume Cilindro.pdb

@@ -1,0 +1,9 @@
+D:\C#\LP2\Projeto2\bin\Debug\Projeto2.exe.config
+D:\C#\LP2\Projeto2\bin\Debug\Projeto2.exe
+D:\C#\LP2\Projeto2\bin\Debug\Projeto2.pdb
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.csprojResolveAssemblyReference.cache
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.Form1.resources
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.Properties.Resources.resources
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.csproj.GenerateResource.Cache
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.exe
+D:\C#\LP2\Projeto2\obj\Debug\Projeto2.pdb

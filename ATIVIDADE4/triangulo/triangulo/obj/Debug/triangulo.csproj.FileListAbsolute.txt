@@ -1,0 +1,9 @@
+D:\C#\LP2\triangulo\triangulo\bin\Debug\triangulo.exe.config
+D:\C#\LP2\triangulo\triangulo\bin\Debug\triangulo.exe
+D:\C#\LP2\triangulo\triangulo\bin\Debug\triangulo.pdb
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.csprojResolveAssemblyReference.cache
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.Form1.resources
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.Cache
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.exe
+D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.pdb

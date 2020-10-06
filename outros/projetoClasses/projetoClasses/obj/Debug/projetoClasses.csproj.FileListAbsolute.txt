@@ -1,0 +1,11 @@
+D:\C#\LP2\projetoClasses\projetoClasses\bin\Debug\projetoClasses.exe.config
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.csprojResolveAssemblyReference.cache
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.Form1.resources
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.frmHorista.resources
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.frmMensalista.resources
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.Properties.Resources.resources
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.csproj.GenerateResource.Cache
+D:\C#\LP2\projetoClasses\projetoClasses\bin\Debug\projetoClasses.exe
+D:\C#\LP2\projetoClasses\projetoClasses\bin\Debug\projetoClasses.pdb
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.exe
+D:\C#\LP2\projetoClasses\projetoClasses\obj\Debug\projetoClasses.pdb

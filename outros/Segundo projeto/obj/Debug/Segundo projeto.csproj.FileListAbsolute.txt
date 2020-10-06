@@ -1,0 +1,8 @@
+D:\C#\LP2\Segundo projeto\bin\Debug\Segundo projeto.exe.config
+D:\C#\LP2\Segundo projeto\bin\Debug\Segundo projeto.exe
+D:\C#\LP2\Segundo projeto\bin\Debug\Segundo projeto.pdb
+D:\C#\LP2\Segundo projeto\obj\Debug\Segundo_projeto.Form1.resources
+D:\C#\LP2\Segundo projeto\obj\Debug\Segundo_projeto.Properties.Resources.resources
+D:\C#\LP2\Segundo projeto\obj\Debug\Segundo projeto.csproj.GenerateResource.cache
+D:\C#\LP2\Segundo projeto\obj\Debug\Segundo projeto.exe
+D:\C#\LP2\Segundo projeto\obj\Debug\Segundo projeto.pdb

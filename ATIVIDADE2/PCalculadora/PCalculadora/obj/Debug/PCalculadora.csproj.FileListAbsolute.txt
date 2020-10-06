@@ -1,0 +1,9 @@
+D:\C#\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe.config
+D:\C#\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.exe
+D:\C#\LP2\PCalculadora\PCalculadora\bin\Debug\PCalculadora.pdb
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csprojResolveAssemblyReference.cache
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.Cache
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.exe
+D:\C#\LP2\PCalculadora\PCalculadora\obj\Debug\PCalculadora.pdb
