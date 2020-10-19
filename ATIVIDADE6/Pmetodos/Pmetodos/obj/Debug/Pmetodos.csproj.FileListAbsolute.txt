@@ -1,0 +1,13 @@
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe.config
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\bin\Debug\Pmetodos.exe
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\bin\Debug\Pmetodos.pdb
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csprojResolveAssemblyReference.cache
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmPrincipal.resources
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio2.resources
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio3.resources
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.Properties.Resources.resources
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.csproj.GenerateResource.Cache
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.exe
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.pdb
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio4.resources
+D:\BACKUPS_D\Offline_D\Repos_Offline\LP2\ATIVIDADE6\Pmetodos\Pmetodos\obj\Debug\Pmetodos.frmExercicio5.resources
