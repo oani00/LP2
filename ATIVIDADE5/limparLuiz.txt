@@ -1,0 +1,35 @@
+foreach (Control componente in grupo.Controls)
+            {
+                if (componente is TextBox)
+                {
+                    ((TextBox)componente).Clear();
+                }
+                else if(componente is MaskedTextBox)
+                {
+                    ((MaskedTextBox)componente).Clear();
+                }
+                else if (componente is ComboBox)
+                {
+                    ((ComboBox)componente).SelectedIndex = -1;
+                }
+                else if (componente is CheckBox)
+                {
+                    ((CheckBox)componente).Checked = false;
+                }
+                else if (componente is RadioButton)
+                {
+                    ((RadioButton)componente).Checked = false;
+                }
+                else if (componente is PictureBox)
+                {
+                    ((PictureBox)componente).Image = null;
+                }
+                else if (componente is RichTextBox)
+                {
+                    ((RichTextBox)componente).Clear();
+                }
+                else if (componente is ProgressBar)
+                {
+                    ((ProgressBar)componente).Value = ((ProgressBar)componente).Minimum;
+                }
+            }

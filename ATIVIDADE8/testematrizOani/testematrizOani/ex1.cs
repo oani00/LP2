@@ -20,7 +20,6 @@ namespace testematrizOani
 
         private void button1_Click(object sender, EventArgs e)
         {
-
             double[] vetor = new double[20];
             string auxiliar = "";
             string saida = "";
@@ -39,7 +38,6 @@ namespace testematrizOani
                     i--;
                 }
             }
-
             MessageBox.Show(saida);
         }
     }

@@ -98,8 +98,23 @@
     <EmbeddedResource Include="ex1.resx">
       <DependentUpon>ex1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="ex2.resx">
+      <DependentUpon>ex2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ex3.resx">
+      <DependentUpon>ex3.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ex4.resx">
       <DependentUpon>ex4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ex5.resx">
+      <DependentUpon>ex5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ex6.resx">
+      <DependentUpon>ex6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ex7.resx">
+      <DependentUpon>ex7.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
