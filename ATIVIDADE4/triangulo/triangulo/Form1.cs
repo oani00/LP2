@@ -19,32 +19,25 @@ namespace triangulo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double ladoA, ladoB, ladoC;
 
-            if (( (double.TryParse(txtA.Text, out ladoA)) && (double.TryParse(txtB.Text, out ladoB))) 
-                && (double.TryParse(txtC.Text, out ladoC)))
+            string stringona = "asssessoria";
+            int comprimento = stringona.Length;
+            int tot = 0;
+            int contador = 0;
+            do
             {
-                if (Math.Abs(ladoB - ladoC) < ladoA && ladoA < ladoB + ladoC &&
-                    Math.Abs(ladoA - ladoC) < ladoB && ladoB < ladoA + ladoC &&
-                    Math.Abs(ladoA - ladoB) < ladoC && ladoC < ladoA + ladoB)
-                {
-                    if (((ladoA == ladoB) | (ladoA == ladoC)) | (ladoB == ladoC)){
-                    MessageBox.Show("É Isósceles! (2 lados iguais)");
-                    }
+                if (Char.ToUpper(stringona[contador]) == 'S')
+                tot += 1;
 
-                    if(ladoA == ladoB && ladoB == ladoC){
-                    MessageBox.Show("É Equilátero! (3 lados iguais)");
-                    }
-
-                    if(ladoA != ladoB && ladoB != ladoC){
-                    MessageBox.Show("É Escaleno! (nenhu lado igual)");
-                    }
-                }
-            }else{
-            MessageBox.Show("Insira 3 lados (afinal precisa ser um triangulo) e de lados positivos.");
+                contador += 1;
             }
+                
+            while (contador < comprimento) ;
+            MessageBox.Show(tot.ToString());
 
-         }
+
+
+        }
 
     }
 }

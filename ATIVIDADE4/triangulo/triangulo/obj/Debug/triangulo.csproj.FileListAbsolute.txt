@@ -7,3 +7,13 @@ D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
 D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.Cache
 D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.exe
 D:\C#\LP2\triangulo\triangulo\obj\Debug\triangulo.pdb
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\bin\Debug\triangulo.exe.config
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\bin\Debug\triangulo.exe
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\bin\Debug\triangulo.pdb
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.csprojAssemblyReference.cache
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.Form1.resources
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.Properties.Resources.resources
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.csproj.GenerateResource.cache
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.csproj.CoreCompileInputs.cache
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.exe
+C:\backupsON\Repos_Offline\LP2\ATIVIDADE4\triangulo\triangulo\obj\Debug\triangulo.pdb
